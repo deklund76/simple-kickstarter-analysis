@@ -16,5 +16,5 @@ It looks like there's a good chance the client can launch a successful campaign,
 
 ![Kickstarter Outcomes by Launch Date](https://user-images.githubusercontent.com/44558170/123363695-ae0e7500-d538-11eb-8fbf-787c5dc0db44.png)
 
-It's clear from the data that May is the ideal month to launch the campaign and I'd recommend the client chooses May or one of the summer months to launch their campaign.
+It's clear from the data that May is the ideal month to launch the campaign and I'd recommend the client chooses May to launch their campaign.
 
